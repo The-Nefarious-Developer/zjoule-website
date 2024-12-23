@@ -4,7 +4,8 @@
 
 **zJoule** is an Open Source AI assistant plugin for Eclipse designed to integrate the **SAP AI Core** Generative AI Hub foundation-models into your development environment.
 
-This repository provides a website with download options, guidelines and other information related to this Eclipse AI Assistant.
+<span style="color:red">**Important:**</span><br>
+This repository provides a website with download options, guidelines and other information related to this Eclipse AI Assistant. If you are looking for the actual plugin, [this is the place](https://github.com/The-Nefarious-Developer/zjoule).
 
 ## Repository Content
 
@@ -16,11 +17,11 @@ This project provides:
 
 ## How to add new releases
 
-Each new release artifact should be added with its respective version folder in the root of the repository directory. Example: [`v1.0.0`](./v1.0.0/).
+Each new release artifact should be added with its respective version folder in the [`docs`](./docs/) directory. Example: [`v1.0.0`](./docs/v1.0.0/).
 
 The website provided uses [MkDocs](https://www.mkdocs.org) with the [Material](https://squidfunk.github.io/mkdocs-material/) theme. This means all dev files are going to be located at the [`docs`](./docs/) folder.
 
-Once these files pass through the build process, they need to be relocated to the root of the repository directory. This enables GitHub Pages to expose the central website, the plugin and the JavaDoc's through the same domain configured in the repository with a single setup.
+Once the project passes through the build phase, the website should be available through the *public* folder of the `gh-pages` branch. This enables GitHub Pages to expose the central website, the plugin and the JavaDoc's through the same domain configured in the repository with a single setup.
 
 ## How to Contribute
 
