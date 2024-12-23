@@ -18,10 +18,12 @@ nav:
   - Demo: demo.md
   - Support: support.md
   - Versions:
-      - v1.0.0: v100.md
       - v1.0.1: v101.md
+      - v1.0.0: v100.md
 extra_javascript:
   - js/custom.js
+extra_css:
+  - css/extra.css
 plugins:
   - search
   - minify:
