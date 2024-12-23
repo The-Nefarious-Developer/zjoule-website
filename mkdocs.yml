@@ -1,0 +1,8 @@
+site_name: zJoule - Eclipse AI Assistant
+theme:
+  name: material
+  logo: assets/zjoule.png
+  palette:
+    primary: indigo
+repo_url: https://github.com/The-Nefarious-Developer/zjoule
+repo_name: zjoule
