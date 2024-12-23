@@ -1,0 +1,31 @@
+site_name: zJoule
+theme:
+  name: material
+  logo: assets/zjoule.png
+  favicon: assets/zjoule.png
+  palette:
+    primary: indigo
+  icon:
+    features:
+      - navigation.sections
+repo_url: https://github.com/The-Nefarious-Developer/zjoule
+repo_name: the-nefarious-developer/zjoule
+copyright: Copyright Nicholas Coutinho Checan - The Nefarious Developer
+extra:
+  generator: false
+nav:
+  - Getting Started: index.md
+  - Demo: demo.md
+  - Support: support.md
+  - Versions:
+      - v1.0.0: v100.md
+extra_javascript:
+  - js/custom.js
+plugins:
+  - search
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true

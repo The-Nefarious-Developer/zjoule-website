@@ -1,0 +1,15 @@
+{
+	"name": "Python 3",
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot"
+			]
+		}
+	},
+	"features": {
+		"ghcr.io/devcontainers-extra/features/mkdocs:2": {}
+	},
+	"postStartCommand": "pip install mkdocs-material mkdocs-minify-plugin"
+}
