@@ -8,8 +8,8 @@
 			]
 		}
 	},
-	"postStartCommand": "pip install mkdocs-material",
 	"features": {
 		"ghcr.io/devcontainers-extra/features/mkdocs:2": {}
-	}
+	},
+	"postStartCommand": "pip install mkdocs-material mkdocs-minify-plugin"
 }

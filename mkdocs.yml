@@ -21,3 +21,11 @@ nav:
       - v1.0.0: v100.md
 extra_javascript:
   - js/custom.js
+plugins:
+  - search
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true

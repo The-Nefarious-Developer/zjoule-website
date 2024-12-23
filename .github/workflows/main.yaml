@@ -20,13 +20,10 @@ jobs:
 
     - name: Install MkDocs and plugins
       run: |
-        pip install mkdocs mkdocs-material
-
-    - name: Build MkDocs site
-      run: mkdocs build --clean
+        pip install mkdocs mkdocs-material mkdocs-minify-plugin
 
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: site
+        personal_token: ${{ secrets.NEFARIOUS_PERSONAL_TOKEN }}
+        publish_dir: public

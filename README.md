@@ -34,8 +34,7 @@ Contributions are welcome! Here's how you can get involved:
 
 Please follow the [contribution guidelines](CONTRIBUTING.md) for more details.
 
-> [!IMPORTANT]  
-> Use this repository for issues and information related to the **website**. If you want to provide feedback related to a plugin functionality, please refer to this [project repo](https://github.com/The-Nefarious-Developer/zjoule).
+Use this repository for issues and information related to the **website**. If you want to provide feedback related to a plugin functionality, please refer to this [project repo](https://github.com/The-Nefarious-Developer/zjoule).
 
 ## References
 
