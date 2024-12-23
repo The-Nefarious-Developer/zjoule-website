@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Check if the title exists on the page
     if (headerTitle) {
         // Change the title dynamically
-        const newTitle = "Eclipse AI Assistant";
+        const newTitle = "ABAP Copilot";
         headerTitle.textContent = newTitle;
     }
 });
