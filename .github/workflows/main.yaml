@@ -47,3 +47,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       with:
         personal_token: ${{ secrets.NEFARIOUS_PERSONAL_TOKEN }}
+        cname: zjoule.com
