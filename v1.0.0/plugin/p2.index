@@ -1,0 +1,4 @@
+#Sun Dec 22 06:06:17 UTC 2024
+artifact.repository.factory.order=artifacts.xml.xz,artifacts.xml,\!
+metadata.repository.factory.order=content.xml.xz,content.xml,\!
+version=1
