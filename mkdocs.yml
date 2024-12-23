@@ -1,8 +1,12 @@
-site_name: Eclipse AI Assistant
+site_name: AI Assistant
 theme:
   name: material
   logo: assets/zjoule.png
+  favicon: assets/zjoule.png
   palette:
     primary: indigo
 repo_url: https://github.com/The-Nefarious-Developer/zjoule
 repo_name: zjoule
+copyright: Copyright Nicholas Coutinho Checan - The Nefarious Developer
+extra:
+  generator: false

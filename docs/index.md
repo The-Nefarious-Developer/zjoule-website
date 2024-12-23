@@ -1,33 +1,21 @@
-# Home
+# Getting Started
 
 **zJoule** is an Open Source AI assistant plugin for Eclipse designed to integrate the SAP AI Core Generative AI Hub foundation-models into your development environment.
 
-## Motivation
+## Requirements
 
-The official Joule version for ADT is being rolled out exclusively for S/4HANA Private Cloud and SAP BTP, ABAP Environment at the end of Q1 of 2025. But don’t worry, this plugin was created to bridges the gap! It introduces an AI-powered chat interface that seamlessly connects other types of SAP systems to large language models (LLMs) through SAP AI Core.
+- SAP AI Core with the `Extended` service plan (for the Generative AI Hub enablement).
+- Eclipse 2024-09 (4.33.0) or latest. *Compatibility with older versions is not guaranteed.*
 
-The idea is to open the door to integrate SAP ABAP development with new models and innovative features that could emerge from the expanding possibilities of AI. 
+## Installation
 
-All from the cozy confines of your Eclipse ADT =)
+1. Get an installation of Eclipse with ADT following the instructions available through [this link](https://tools.hana.ondemand.com/#abap), if you don't have it already.
+2. In Eclipse, choose in the menu bar **Help > Install New Software...**
+3. Enter the URL **https://zjoule.com/v1.0.0/plugin**
+4. Press **Enter** to display the available features.
+5. Select **zJoule - SAP AI Assistant** and choose **Next**.
+6. On the next wizard page, you get an overview of the features to be installed. Choose **Next**.
+7. Confirm the **license agreements** and choose **Finish** to start the installation.
+8. Choose to trust the artifacts to be installed when the **Trust Artifacts** pop-up comes up to proceed with the installation process.
 
-### Benefits
-
-#### 1. Coding Assistance:
-- Answer coding-related questions.
-- Provide real-time suggestions and explanations for code.
-- Assist in debugging by analyzing error messages and suggesting fixes.
-#### 2. Documentation & Learning:
-- Summarize or explain code snippets and concepts.
-- Fetch and clarify information on APIs, libraries, or frameworks.
-#### 3. Productivity Boost:
-- Reduce context switching by enabling developers to query information directly within Eclipse.
-- Automate repetitive tasks through scripting and custom commands.
-#### 4. Integration with SAP AI Core:
-- Access advanced AI capabilities, potentially tailored to SAP-specific development workflows.
-#### 5. Dynamic Testing Support:
-- Offer insights into test cases or suggest ways to optimize testing processes.
-#### 6. Natural Language Interaction:
-- Simplify complex development tasks by allowing users to describe their needs in plain language.
-#### 7. Enhanced Development Experience:
-- Enable faster learning for beginners or new team members.
-- Provide a smoother workflow for experienced developers needing quick solutions.
+> You can also download the release through [this link](https://github.com/The-Nefarious-Developer/zjoule/releases) if preferred.
