@@ -1,4 +1,4 @@
-site_name: AI Assistant
+site_name: zJoule
 theme:
   name: material
   logo: assets/zjoule.png
@@ -7,8 +7,16 @@ theme:
     primary: indigo
   icon:
     repo: fontawesome/brands/github
+    features:
+      - navigation.sections
 repo_url: https://github.com/The-Nefarious-Developer/zjoule
-repo_name: zjoule
+repo_name: the-nefarious-developer/zjoule
 copyright: Copyright Nicholas Coutinho Checan - The Nefarious Developer
 extra:
   generator: false
+nav:
+  - Getting Started: index.md
+  - Demo: demo.md
+  - Support: support.md
+  - Versions:
+      - v1.0.0: v100.md
