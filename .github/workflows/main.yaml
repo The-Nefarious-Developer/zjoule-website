@@ -26,4 +26,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       with:
         personal_token: ${{ secrets.NEFARIOUS_PERSONAL_TOKEN }}
-        publish_dir: public
+        publish_dir: site
