@@ -5,6 +5,8 @@ theme:
   favicon: assets/zjoule.png
   palette:
     primary: indigo
+  icon:
+    repo: fontawesome/brands/github
 repo_url: https://github.com/The-Nefarious-Developer/zjoule
 repo_name: zjoule
 copyright: Copyright Nicholas Coutinho Checan - The Nefarious Developer
