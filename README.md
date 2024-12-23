@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="docs/assets/zjoule.png" alt="Intro GIF" width="25"/> zJoule - Website
+<img src="docs/assets/zjoule.png" alt="Intro GIF" width="25"/> zJoule - ABAP Copilot - Website
 </h1>
 
 **zJoule** is an Open Source AI assistant plugin for Eclipse designed to integrate the **SAP AI Core** Generative AI Hub foundation-models into your development environment.
