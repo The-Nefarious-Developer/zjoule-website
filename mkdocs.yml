@@ -6,7 +6,6 @@ theme:
   palette:
     primary: indigo
   icon:
-    repo: fontawesome/brands/github
     features:
       - navigation.sections
 repo_url: https://github.com/The-Nefarious-Developer/zjoule
@@ -20,3 +19,5 @@ nav:
   - Support: support.md
   - Versions:
       - v1.0.0: v100.md
+extra_javascript:
+  - js/custom.js
