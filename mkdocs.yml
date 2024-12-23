@@ -19,6 +19,7 @@ nav:
   - Support: support.md
   - Versions:
       - v1.0.0: v100.md
+      - v1.0.1: v101.md
 extra_javascript:
   - js/custom.js
 plugins:
