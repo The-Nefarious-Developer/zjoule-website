@@ -1,5 +1,5 @@
 <h1 align="center">
-zJoule - Website
+<img src="docs/assets/zjoule.png" alt="Intro GIF" width="25"/> zJoule - Website
 </h1>
 
 **zJoule** is an Open Source AI assistant plugin for Eclipse designed to integrate the **SAP AI Core** Generative AI Hub foundation-models into your development environment.
@@ -32,6 +32,10 @@ Contributions are welcome! Here's how you can get involved:
 4. **Test & Feedback:** Try this Eclipse AI Assistant and give us feedback to improve them.
 
 Please follow the [contribution guidelines](CONTRIBUTING.md) for more details.
+
+> **Important**
+>
+> Use this repository for issues and information related to the **website**. If you want to provide feedback related to a plugin functionality, please refer to this [project repo](https://github.com/The-Nefarious-Developer/zjoule).
 
 ## References
 
