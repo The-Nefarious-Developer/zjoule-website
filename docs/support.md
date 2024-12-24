@@ -1,4 +1,4 @@
-All communication related to **zJoule** will be available through [The Nefarious Developer](https://github.com/The-Nefarious-Developer) organization [anouncements](https://github.com/orgs/The-Nefarious-Developer/discussions) section.
+All communication related to **zJoule** will be available through [The Nefarious Developer](https://github.com/The-Nefarious-Developer) organization [announcements](https://github.com/orgs/The-Nefarious-Developer/discussions) section.
 
 Here are ways to get support or contribute with the development of this project:
 
