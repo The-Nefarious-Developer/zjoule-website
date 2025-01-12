@@ -18,6 +18,8 @@ nav:
   - Demo: demo.md
   - Support: support.md
   - Versions:
+      - v1.1.1: v111.md
+      - v1.1.0: v110.md
       - v1.0.3: v103.md
       - v1.0.2: v102.md
       - v1.0.1: v101.md
