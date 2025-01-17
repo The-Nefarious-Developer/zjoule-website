@@ -13,7 +13,7 @@ For more information, please, check the [project repository](https://github.com/
 
 1. Get an installation of Eclipse with ADT following the instructions available through [this link](https://tools.hana.ondemand.com/#abap), if you don't have it already.
 2. In Eclipse, choose in the menu bar **Help > Install New Software...**
-3. Enter the URL **https://zjoule.com/v1.1.1/plugin**
+3. Enter the URL **https://zjoule.com/v1.1.2/plugin**
 4. Press **Enter** to display the available features.
 5. Select **zJoule - SAP AI Assistant** and choose **Next**.
 6. On the next wizard page, you get an overview of the features to be installed. Choose **Next**.
