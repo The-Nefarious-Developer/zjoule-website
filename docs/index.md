@@ -6,7 +6,7 @@ For more information, please, check the [project repository](https://github.com/
 
 ## Requirements
 
-- SAP AI Core with the `Extended` service plan (for the Generative AI Hub enablement).
+- SAP AI Core with the `Extended` service plan (for the Generative AI Hub enablement) OR an Ollama installation.
 - Eclipse 2024-09 (4.33.0) or latest. *Compatibility with older versions is not guaranteed.*
 
 ## Installation
@@ -20,4 +20,4 @@ For more information, please, check the [project repository](https://github.com/
 7. Confirm the **license agreements** and choose **Finish** to start the installation.
 8. Choose to trust the artifacts to be installed when the **Trust Artifacts** pop-up comes up to proceed with the installation process.
 
-> You can also download the release through [this link](https://github.com/The-Nefarious-Developer/zjoule/releases) if preferred.
+> You can also download the release through [this link](https://github.com/The-Nefarious-Developer/zjoule/releases) or use the Eclipse market place, if preferred.
