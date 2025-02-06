@@ -18,6 +18,7 @@ nav:
   - Demo: demo.md
   - Support: support.md
   - Versions:
+      - v2.0.2: v2_0_2.md
       - v2.0.1: v2_0_1.md
       - v2.0.0: v2_0_0.md
       - v1.1.2: v1_1_2.md
